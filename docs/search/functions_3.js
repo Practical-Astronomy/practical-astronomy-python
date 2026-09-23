@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['dd_5fdeg_0',['dd_deg',['../namespacepractical__astronomy_1_1pa__macro.html#adcf8e7ec97524b2dec4068c06d3d6243',1,'practical_astronomy::pa_macro']]],
+  ['dd_5fdh_1',['dd_dh',['../namespacepractical__astronomy_1_1pa__macro.html#af7a6d490edbb9a0486859f45a16b1a93',1,'practical_astronomy::pa_macro']]],
+  ['dd_5fmin_2',['dd_min',['../namespacepractical__astronomy_1_1pa__macro.html#a09f25eb4d110c786c00f7ea7cb1160fc',1,'practical_astronomy::pa_macro']]],
+  ['dd_5fsec_3',['dd_sec',['../namespacepractical__astronomy_1_1pa__macro.html#ad66dc141025e322f5a8511bd5ca558f4',1,'practical_astronomy::pa_macro']]],
+  ['decimal_5fdegrees_5fto_5fangle_4',['decimal_degrees_to_angle',['../namespacepractical__astronomy_1_1pa__coordinate.html#a75890f67b7ac474b52f2d30259be2fdc',1,'practical_astronomy::pa_coordinate']]],
+  ['decimal_5fhour_5fhour_5',['decimal_hour_hour',['../namespacepractical__astronomy_1_1pa__datetime.html#a28397902e98f62c8fcac420ff48ba35c',1,'practical_astronomy::pa_datetime']]],
+  ['decimal_5fhour_5fminutes_6',['decimal_hour_minutes',['../namespacepractical__astronomy_1_1pa__datetime.html#ae00ff2d7e7e2cad29bac99923da04ccb',1,'practical_astronomy::pa_datetime']]],
+  ['decimal_5fhour_5fseconds_7',['decimal_hour_seconds',['../namespacepractical__astronomy_1_1pa__datetime.html#aa8abb8e6560216106b923eef710644d7',1,'practical_astronomy::pa_datetime']]],
+  ['decimal_5fhours_5fto_5fcivil_5ftime_8',['decimal_hours_to_civil_time',['../namespacepractical__astronomy_1_1pa__datetime.html#aa356b54f9a493faab2b723c131aaa0f2',1,'practical_astronomy::pa_datetime']]],
+  ['degrees_9',['degrees',['../namespacepractical__astronomy_1_1pa__macro.html#ad6db13124757869651ab409879501fea',1,'practical_astronomy::pa_macro']]],
+  ['dh_5fdd_10',['dh_dd',['../namespacepractical__astronomy_1_1pa__macro.html#ae83b6f88c45d96a9b935a110828218f8',1,'practical_astronomy::pa_macro']]],
+  ['dh_5fhour_11',['dh_hour',['../namespacepractical__astronomy_1_1pa__macro.html#ae08a680a0a17e368e52c4d892e947afd',1,'practical_astronomy::pa_macro']]],
+  ['dh_5fmin_12',['dh_min',['../namespacepractical__astronomy_1_1pa__macro.html#a929d9539d02ed440c1fb2528be4db93f',1,'practical_astronomy::pa_macro']]],
+  ['dh_5fsec_13',['dh_sec',['../namespacepractical__astronomy_1_1pa__macro.html#a74b9d940aadacba4ce21b557e3fc5c76',1,'practical_astronomy::pa_macro']]],
+  ['dms_5fdd_14',['dms_dd',['../namespacepractical__astronomy_1_1pa__macro.html#a03b783e3ee48c5ce0a72d81ca55656fb',1,'practical_astronomy::pa_macro']]]
+];

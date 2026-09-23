@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['calendar_0',['calendar',['../md_src_2glossary.html#autotoc_md16',1,'']]],
+  ['carrington_5frotation_5fnumber_1',['carrington_rotation_number',['../namespacepractical__astronomy_1_1pa__coordinate.html#a147f8d9380fddc1331aa89b7245c45f0',1,'practical_astronomy::pa_coordinate']]],
+  ['cd_5fjd_2',['cd_jd',['../namespacepractical__astronomy_1_1pa__macro.html#a53a217240d9332e7d41f5cca9c3a7158',1,'practical_astronomy::pa_macro']]],
+  ['celestial_20pole_3',['north celestial pole',['../md_src_2glossary.html#autotoc_md75',1,'']]],
+  ['celestial_20sphere_4',['celestial sphere',['../md_src_2glossary.html#autotoc_md17',1,'']]],
+  ['centre_5',['equation of the centre',['../md_src_2glossary.html#autotoc_md36',1,'']]],
+  ['circle_6',['great circle',['../md_src_2glossary.html#autotoc_md51',1,'']]],
+  ['circumpolar_20stars_7',['circumpolar stars',['../md_src_2glossary.html#autotoc_md18',1,'']]],
+  ['civil_5fdate_5fto_5fday_5fnumber_8',['civil_date_to_day_number',['../namespacepractical__astronomy_1_1pa__datetime.html#a136f991b31e32ba2d88feb3b0364ba0a',1,'practical_astronomy::pa_datetime']]],
+  ['civil_5ftime_5fto_5fdecimal_5fhours_9',['civil_time_to_decimal_hours',['../namespacepractical__astronomy_1_1pa__datetime.html#a085798c6739af4eb7e21c56905532a7b',1,'practical_astronomy::pa_datetime']]],
+  ['comet_10',['comet',['../md_src_2glossary.html#autotoc_md19',1,'']]],
+  ['cometdataelliptical_11',['CometDataElliptical',['../namespacepractical__astronomy_1_1pa__comet__data.html#abe774a73dc91f87e15d85f5df00635bd',1,'practical_astronomy::pa_comet_data']]],
+  ['cometdataparabolic_12',['CometDataParabolic',['../namespacepractical__astronomy_1_1pa__comet__data.html#a08715ae45742b9a8725257b58d04f667',1,'practical_astronomy::pa_comet_data']]],
+  ['companion_20star_13',['companion star',['../md_src_2glossary.html#autotoc_md20',1,'']]],
+  ['conjunction_14',['conjunction',['../md_src_2glossary.html#autotoc_md21',1,'']]],
+  ['coordinate_20systems_15',['coordinate systems',['../md_src_2glossary.html#autotoc_md22',1,'']]],
+  ['coordinated_20universal_20time_20utc_16',['coordinated universal time (UTC)',['../md_src_2glossary.html#autotoc_md23',1,'']]],
+  ['coordinates_17',['coordinates',['../index.html#autotoc_md137',1,'Coordinates'],['../md_src_2glossary.html#autotoc_md46',1,'geocentric coordinates']]],
+  ['correct_5ffor_5faberration_18',['correct_for_aberration',['../namespacepractical__astronomy_1_1pa__coordinate.html#a1cc7a329696dd89fbc1f6927fbfddd08',1,'practical_astronomy::pa_coordinate']]],
+  ['correct_5ffor_5fprecession_19',['correct_for_precession',['../namespacepractical__astronomy_1_1pa__coordinate.html#a86bebc515038f96177700c49a0996916',1,'practical_astronomy::pa_coordinate']]],
+  ['correction_20',['zone correction',['../md_src_2glossary.html#autotoc_md131',1,'']]],
+  ['corrections_5ffor_5fgeocentric_5fparallax_21',['corrections_for_geocentric_parallax',['../namespacepractical__astronomy_1_1pa__coordinate.html#ae4866f62c61c19fc6a8c9a2395efd1dd',1,'practical_astronomy::pa_coordinate']]],
+  ['culmination_22',['culmination',['../md_src_2glossary.html#autotoc_md24',1,'']]],
+  ['cycle_23',['Saros cycle',['../md_src_2glossary.html#autotoc_md106',1,'']]]
+];

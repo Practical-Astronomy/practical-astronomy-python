@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['universal_5ftime_5fto_5fgreenwich_5fsidereal_5ftime_0',['universal_time_to_greenwich_sidereal_time',['../namespacepractical__astronomy_1_1pa__datetime.html#a53ff079ce83bee18f0a5e111f93e17b1',1,'practical_astronomy::pa_datetime']]],
+  ['universal_5ftime_5fto_5flocal_5fcivil_5ftime_1',['universal_time_to_local_civil_time',['../namespacepractical__astronomy_1_1pa__datetime.html#aaf089447519c0b2d15e372d79cce7ef1',1,'practical_astronomy::pa_datetime']]],
+  ['unwind_2',['unwind',['../namespacepractical__astronomy_1_1pa__macro.html#a0d949d0f042255e79e7982ac1d26f599',1,'practical_astronomy::pa_macro']]],
+  ['unwind_5fdeg_3',['unwind_deg',['../namespacepractical__astronomy_1_1pa__macro.html#a603c4a60c92d0f71e071cb35450a71f3',1,'practical_astronomy::pa_macro']]],
+  ['unwind_5frad_4',['unwind_rad',['../namespacepractical__astronomy_1_1pa__macro.html#a677059c408aa255b1dcce4378fa1b937',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fday_5fadjust_5',['ut_day_adjust',['../namespacepractical__astronomy_1_1pa__macro.html#af9b2417ce6c7cacbd2d60ffe9fb1a017',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fend_5ftotal_5flunar_5feclipse_6',['ut_end_total_lunar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#a062661e694f0e637098001a9d54a5f4a',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fend_5fumbra_5flunar_5feclipse_7',['ut_end_umbra_lunar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#ae7f9fc3c4918824669ca631f470c9592',1,'practical_astronomy::pa_macro']]],
+  ['ut_5ffirst_5fcontact_5flunar_5feclipse_8',['ut_first_contact_lunar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#afa949eedf8005ea9e6a2dc4a6275977c',1,'practical_astronomy::pa_macro']]],
+  ['ut_5ffirst_5fcontact_5fsolar_5feclipse_9',['ut_first_contact_solar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#a2b58ea9989f0cc38660b15b75a36f8da',1,'practical_astronomy::pa_macro']]],
+  ['ut_5ffirst_5fcontact_5fsolar_5feclipse_5fl7390_10',['ut_first_contact_solar_eclipse_l7390',['../namespacepractical__astronomy_1_1pa__macro.html#a16c8812b67d0a7595ffc0fe5022dcd68',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fgst_11',['ut_gst',['../namespacepractical__astronomy_1_1pa__macro.html#a743915eb60c4bc3ae3fdf473675d6a36',1,'practical_astronomy::pa_macro']]],
+  ['ut_5flast_5fcontact_5flunar_5feclipse_12',['ut_last_contact_lunar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#a4ee8f3a0d189663ce4f4f7d1c3e55be5',1,'practical_astronomy::pa_macro']]],
+  ['ut_5flast_5fcontact_5fsolar_5feclipse_13',['ut_last_contact_solar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#a46481eec2f4f1cb74a6d5febfa27826e',1,'practical_astronomy::pa_macro']]],
+  ['ut_5flast_5fcontact_5fsolar_5feclipse_5fl7390_14',['ut_last_contact_solar_eclipse_l7390',['../namespacepractical__astronomy_1_1pa__macro.html#a380576379f300bf23c180832a5847028',1,'practical_astronomy::pa_macro']]],
+  ['ut_5flc_5fday_15',['ut_lc_day',['../namespacepractical__astronomy_1_1pa__macro.html#a00211e84e74aa9b645e59744f8f90148',1,'practical_astronomy::pa_macro']]],
+  ['ut_5flc_5fmonth_16',['ut_lc_month',['../namespacepractical__astronomy_1_1pa__macro.html#ad80263f2397103b628a139e00d7b698d',1,'practical_astronomy::pa_macro']]],
+  ['ut_5flc_5fyear_17',['ut_lc_year',['../namespacepractical__astronomy_1_1pa__macro.html#a30b173bd4aab988e0c32e3563fe3754c',1,'practical_astronomy::pa_macro']]],
+  ['ut_5flct_18',['ut_lct',['../namespacepractical__astronomy_1_1pa__macro.html#a2468a7674814ceece2809a8bf450747d',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fmax_5flunar_5feclipse_19',['ut_max_lunar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#a3e7742b53b482a0fbe4c2cec9d6f33ad',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fmax_5fsolar_5feclipse_20',['ut_max_solar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#af75a4d5ae98b6d6a6082de9f2cd8b8b7',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fmax_5fsolar_5feclipse_5fl7390_21',['ut_max_solar_eclipse_l7390',['../namespacepractical__astronomy_1_1pa__macro.html#abcceb97e03d073bc5b9dbc0b57367d09',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fstart_5ftotal_5flunar_5feclipse_22',['ut_start_total_lunar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#abdfd7418918daf9487685275a103b606',1,'practical_astronomy::pa_macro']]],
+  ['ut_5fstart_5fumbra_5flunar_5feclipse_23',['ut_start_umbra_lunar_eclipse',['../namespacepractical__astronomy_1_1pa__macro.html#a2f981e41e38aed4175ebf244e5fcd54a',1,'practical_astronomy::pa_macro']]]
+];
